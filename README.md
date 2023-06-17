@@ -1,3 +1,5 @@
+# No updates for a while ( 2 weeks or so )
+
 # Rebus
 Rebus is a hacking tool ive made that has alot of stuff mushed into it. ( the installer script is from https://github.com/Z4nzu/hackingtool/ )
 
